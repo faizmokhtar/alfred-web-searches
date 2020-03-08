@@ -1,0 +1,3 @@
+w: Twitter,https://twitter.com/search?q={query}&src=typd
+w: Letterboxd,http://letterboxd.com/search/{query}
+w: Reddit,https://www.reddit.com/search?q={query}&sort=relevance&t=all
